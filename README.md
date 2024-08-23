@@ -1,21 +1,20 @@
+Name: NANDIREDDY CHANDRIKA Company: CODTECH IT SOLUTIONS ID: CT6WDS1522 Domain: Python Programming Duration:August 1st,2024 to September 1st,2024 Mentor: Neela Santhosh Kumar
 
+Overview of the Project
 
+Project:Student Grade Tracker
 
+Overview
+The Student Grade Tracker is a Python console application designed to manage and track students' grades across different subjects. It allows you to add students, record their grades, calculate average grades, and view overall grade information, including letter grades and GPA.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Features
+Add Students: Easily add new students by name.
+Record Grades: Input grades for students in various subjects.
+Calculate Average: Compute and display a student's average grade.
+View Grade Summary: Get a summary of a student's average grade, letter grade, and GPA.
+Usage
+Run the script to start the application. Use the menu to add students, input grades, and view their grade information.
+OUTPUT:
 Choose an option:
 1. Add a new student
 2. Add a grade to a student
